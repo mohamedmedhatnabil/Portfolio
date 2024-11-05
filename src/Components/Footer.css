@@ -1,0 +1,25 @@
+.social-icons a {
+    color: #ffffff; /* Default icon color */
+    transition: color 0.3s ease; /* Smooth color transition */
+  }
+  
+  .social-icons a.facebook-icon:hover,
+  .social-icons a.facebook-icon:focus {
+    color: #1877f2; /* Facebook blue */
+  }
+  
+  .social-icons a.twitter-icon:hover,
+  .social-icons a.twitter-icon:focus {
+    color: #1da1f2; /* Twitter blue */
+  }
+  
+  .social-icons a.linkedin-icon:hover,
+  .social-icons a.linkedin-icon:focus {
+    color: #0077b5; /* LinkedIn blue */
+  }
+  
+  .social-icons a.instagram-icon:hover,
+  .social-icons a.instagram-icon:focus {
+    color: #e4405f; /* Instagram pink */
+  }
+  
